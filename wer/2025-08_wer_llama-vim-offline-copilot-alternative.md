@@ -51,7 +51,8 @@ curl -s http://127.0.0.1:8012/v1/chat/completions \
   }'
 ```
 
-# llama.vim uses FIM for inline suggestions; you can call the infill endpoint directly
+## llama.vim uses FIM for inline suggestions; you can call the infill endpoint directly
+
 infill (fill‑in‑the‑middle)
 ```bash
 curl -s http://127.0.0.1:8012/infill \
