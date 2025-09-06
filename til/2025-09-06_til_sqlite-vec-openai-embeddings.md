@@ -1,10 +1,4 @@
 <!-- Filename: 2025-09-06_til_sqlite-vec-openai-embeddings.md -->
----
-title: "Add vector search to SQLite with sqlite-vec and OpenAI embeddings"
-date: 2025-09-06
-tags: [til, sqlite, sqlite-vec, embeddings, openai, python]
-summary: "Use sqlite-vec for fast vector search in SQLite using OpenAI's text-embedding-3-small (1536 dims)."
----
 
 # Add Vector Search to SQLite with sqlite-vec and OpenAI
 
