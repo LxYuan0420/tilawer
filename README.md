@@ -10,3 +10,6 @@ This repo holds short engineering write ups:
   - [Amp CLI vs Codex CLI](wer/2025-08_wer_amp-cli-vs-codex-cli.md) (2025-08)
 - TIL:
   - [Notes on stacking sliding window attention](til/2025-08-28_til_stacking-swa-notes.md) (2025-08-28)
+  - [Interactive SQLite vector search demo using OpenAI embeddings and sqlite-vec](til/2025-09-06_til_sqlite-vec-openai-embeddings.md) (2025-09-06)
+ 
+
