@@ -11,6 +11,3 @@ How to write
 - Text-only; no images. Prefer copy-pasteable commands.
 
 Start from `_template.md` in this folder.
-
-Index
-- [2025-09-15: Jump out and back to Vim with Ctrl+Z and fg](2025-09-15_til_ctrl-z-fg-vim.md)
