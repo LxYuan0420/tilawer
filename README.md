@@ -12,3 +12,4 @@ This repo holds short engineering write ups:
   - [Notes on stacking sliding window attention](til/2025-08-28_til_stacking-swa-notes.md) (2025-08-28)
   - [Interactive SQLite vector search demo using OpenAI embeddings and sqlite-vec](til/2025-09-06_til_sqlite-vec-openai-embeddings.md) (2025-09-06)
   - [Jump out and back to Vim with Ctrl+Z and fg](til/2025-09-15_til_ctrl-z-fg-vim.md) (2025-09-15)
+  - [Switch to the previous tmux session with Prefix+L](til/2025-09-22_til_tmux-prefix-l-previous-session.md) (2025-09-22)
